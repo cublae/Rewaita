@@ -1,0 +1,22 @@
+[Icon Theme]
+Name=Rewaita
+Comment=Improved fork of Skeuowaita
+Inherits=Adwaita
+Example=folder
+
+Directories=apps/scalable,places/scalable
+
+[apps/scalable]
+Size=96
+Context=Applications
+MinSize=16
+MaxSize=128
+Type=Scalable
+
+[places/scalable]
+Size=96
+Context=Applications
+MinSize=16
+MaxSize=128
+Type=Scalable
+
